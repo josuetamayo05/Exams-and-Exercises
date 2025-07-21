@@ -1,0 +1,14 @@
+C:\Telegram\extra\bin\Debug\net9.0\extra.exe
+C:\Telegram\extra\bin\Debug\net9.0\extra.deps.json
+C:\Telegram\extra\bin\Debug\net9.0\extra.runtimeconfig.json
+C:\Telegram\extra\bin\Debug\net9.0\extra.dll
+C:\Telegram\extra\bin\Debug\net9.0\extra.pdb
+C:\Telegram\extra\obj\Debug\net9.0\extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\extra\obj\Debug\net9.0\extra.AssemblyInfoInputs.cache
+C:\Telegram\extra\obj\Debug\net9.0\extra.AssemblyInfo.cs
+C:\Telegram\extra\obj\Debug\net9.0\extra.csproj.CoreCompileInputs.cache
+C:\Telegram\extra\obj\Debug\net9.0\extra.dll
+C:\Telegram\extra\obj\Debug\net9.0\refint\extra.dll
+C:\Telegram\extra\obj\Debug\net9.0\extra.pdb
+C:\Telegram\extra\obj\Debug\net9.0\extra.genruntimeconfig.cache
+C:\Telegram\extra\obj\Debug\net9.0\ref\extra.dll

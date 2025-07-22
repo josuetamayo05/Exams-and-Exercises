@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Encrucijada del caminante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462e480f0080c42174e2f19995da5e5edd922f73")]
 [assembly: System.Reflection.AssemblyProductAttribute("Encrucijada del caminante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Encrucijada del caminante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,18 @@ C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\En
 C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.pdb
 C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Encrucijada del caminante\obj\Debug\net8.0\ref\Encrucijada del caminante.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\refint\Encrucijada del caminante.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\bin\Debug\net8.0\Encrucijada del caminante.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\Encrucijada del caminante.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Encrucijada del caminante\obj\Debug\net8.0\ref\Encrucijada del caminante.dll

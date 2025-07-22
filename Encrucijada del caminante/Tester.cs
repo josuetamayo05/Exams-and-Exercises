@@ -7,7 +7,8 @@ namespace Weboo.Examen.Final.Probador
         private static int caso = 1;
         static void Main()
         {
-            Probar(new[] {1, 3, 2}, 2, 4);
+            
+            //Probar(new[] {1, 3, 2}, 2, 4);
             Probar(new[] { 5, 7, 3, 5 }, 2, 7);
             Probar(new[] { 1, 3, 5 }, 2, 3);
             Probar(new[] { 1, 3, 5 }, 1, 0);

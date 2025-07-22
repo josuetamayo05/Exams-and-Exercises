@@ -1,7 +1,7 @@
 namespace Caminante
 {
     
-    public class Caminante
+    public class Caminante2
     {
         /// <summary>
         /// Dada una secuencias de cajas y la diferencia posible entre alturas,

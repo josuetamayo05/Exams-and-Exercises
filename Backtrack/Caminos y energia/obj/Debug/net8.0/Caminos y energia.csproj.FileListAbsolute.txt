@@ -1,0 +1,30 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\bin\Debug\net8.0\Caminos y energia.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\bin\Debug\net8.0\Caminos y energia.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\bin\Debug\net8.0\Caminos y energia.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\bin\Debug\net8.0\Caminos y energia.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\bin\Debug\net8.0\Caminos y energia.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\refint\Caminos y energia.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\Caminos y energia.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Caminos y energia\obj\Debug\net8.0\ref\Caminos y energia.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\bin\Debug\net8.0\Caminos y energia.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\bin\Debug\net8.0\Caminos y energia.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\bin\Debug\net8.0\Caminos y energia.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\bin\Debug\net8.0\Caminos y energia.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\bin\Debug\net8.0\Caminos y energia.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\refint\Caminos y energia.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\Caminos y energia.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Caminos y energia\obj\Debug\net8.0\ref\Caminos y energia.dll

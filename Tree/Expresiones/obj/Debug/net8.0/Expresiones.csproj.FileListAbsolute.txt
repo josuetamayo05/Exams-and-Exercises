@@ -1,0 +1,43 @@
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\bin\Debug\net8.0\Expresiones.exe
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\bin\Debug\net8.0\Expresiones.deps.json
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\bin\Debug\net8.0\Expresiones.runtimeconfig.json
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\bin\Debug\net8.0\Expresiones.dll
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\bin\Debug\net8.0\Expresiones.pdb
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.AssemblyInfoInputs.cache
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.AssemblyInfo.cs
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.csproj.CoreCompileInputs.cache
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.dll
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\refint\Expresiones.dll
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.pdb
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\Expresiones.genruntimeconfig.cache
+C:\Users\leyva\OneDrive\Desktop\Nueva carpeta\Expresiones\obj\Debug\net8.0\ref\Expresiones.dll
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\bin\Debug\net8.0\Expresiones.exe
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\bin\Debug\net8.0\Expresiones.deps.json
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\bin\Debug\net8.0\Expresiones.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\bin\Debug\net8.0\Expresiones.dll
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\bin\Debug\net8.0\Expresiones.pdb
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.dll
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\refint\Expresiones.dll
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.pdb
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\Expresiones.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Recuerdos De Vietnam\Expresiones\obj\Debug\net8.0\ref\Expresiones.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\bin\Debug\net8.0\Expresiones.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\bin\Debug\net8.0\Expresiones.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\bin\Debug\net8.0\Expresiones.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\bin\Debug\net8.0\Expresiones.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\bin\Debug\net8.0\Expresiones.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\refint\Expresiones.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\Expresiones.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Expresiones\obj\Debug\net8.0\ref\Expresiones.dll

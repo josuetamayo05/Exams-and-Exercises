@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Colonia de Hormigas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb90d8eccc23984aad8706668e82717c3d866a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Colonia de Hormigas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Colonia de Hormigas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

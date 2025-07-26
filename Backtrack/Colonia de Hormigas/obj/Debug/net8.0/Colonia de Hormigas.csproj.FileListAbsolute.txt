@@ -12,3 +12,18 @@ D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Horm
 D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.pdb
 D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.genruntimeconfig.cache
 D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Colonia de Hormigas\obj\Debug\net8.0\ref\Colonia de Hormigas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\bin\Debug\net8.0\Colonia de Hormigas.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\refint\Colonia de Hormigas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\Colonia de Hormigas.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Colonia de Hormigas\obj\Debug\net8.0\ref\Colonia de Hormigas.dll

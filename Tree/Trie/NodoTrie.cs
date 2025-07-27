@@ -7,7 +7,6 @@ namespace Trie
 
         //Representa si una palabra termina en este nodo 
         public bool FinDePalabra { get; set; }
-        public Dictionary<char, NodoTrie> Children { get; } = new Dictionary<char, NodoTrie>();
         //Nodos Hijos 
         public List<NodoTrie> Hijos { get; private set; }
 
@@ -15,7 +14,15 @@ namespace Trie
         //De no existir devuelve null 
         public NodoTrie this[char valor]
         {
-            get => Hijos.Where(x => x.Valor == valor).FirstOrDefault()!;
+            get
+            {
+                foreach (var child in Hijos)
+                {
+                    if (child.Valor == valor)
+                        return child;
+                }
+                return null;
+            }
             set { }
         }
 

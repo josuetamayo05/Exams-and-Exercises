@@ -13,3 +13,18 @@ D:\programacion\pruebas resueltas\pruebas de arboles hechas\Trie\obj\Debug\net8.
 D:\programacion\pruebas resueltas\pruebas de arboles hechas\Trie\obj\Debug\net8.0\Trie.pdb
 D:\programacion\pruebas resueltas\pruebas de arboles hechas\Trie\obj\Debug\net8.0\Trie.genruntimeconfig.cache
 D:\programacion\pruebas resueltas\pruebas de arboles hechas\Trie\obj\Debug\net8.0\ref\Trie.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\bin\Debug\net8.0\Trie.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\bin\Debug\net8.0\Trie.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\bin\Debug\net8.0\Trie.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\bin\Debug\net8.0\Trie.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\bin\Debug\net8.0\Trie.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\refint\Trie.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\Trie.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Trie\obj\Debug\net8.0\ref\Trie.dll

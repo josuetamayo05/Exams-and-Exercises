@@ -1,138 +1,140 @@
+using System.Text;
+
 namespace Trie
 {
     public class Trie : ITrie
     {
         public NodoTrie Raiz { get; private set; }
+        
 
+        public Trie()
+        {
+            Raiz = new NodoTrie('\0');
+        }
+
+        public void AgregarPalabra(string palabra)
+        {
+            Add(palabra, Raiz, 0);
+        }
+
+        public void Add(string palabra, NodoTrie root, int index)
+        {
+            if (index == palabra.Length)
+            {
+                root.FinDePalabra = true;
+                CantidadDePalabras++;
+                return;    
+            }
+            var match = root.Hijos.Where(x => x.Valor == palabra[index]).FirstOrDefault();
+            if (match is null)
+            {
+                var child = new NodoTrie(palabra[index]);
+                root.Hijos.Add(child);
+                Add(palabra, child, index + 1);
+            }
+            else
+                Add(palabra, match, index + 1);
+        }
+
+        public string MayorPrefijoComun()
+        {
+            string prefijo = "";
+            var actual = Raiz;
+            var collection = new StringBuilder();
+            while (actual.Hijos.Count == 1 && !actual.FinDePalabra)
+            {
+                actual = actual.Hijos[0];
+                collection.Append(actual.Valor);
+            }
+            return collection.ToString();
+        }
+        
+        public IEnumerable<string> PalabrasConPrefijo(string prefijo)
+        {
+            List<string> words = new List<string>();
+            WorkWithPrefij(Raiz, prefijo, 0, words);
+            return words;
+        }
+
+        void WorkWithPrefij(NodoTrie node, string prefijo, int index, List<string> words)
+        {
+            if (index == prefijo.Length)
+            {
+                GetWords(node, prefijo, words);
+            }
+            else
+            {
+                var match = node.Hijos.Where(x => x.Valor == prefijo[index]).FirstOrDefault();
+                if (match is null) return;
+                else
+                {
+                    WorkWithPrefij(match, prefijo, index + 1, words);
+                }
+            }
+        }
+        void GetWords(NodoTrie node, string prefijo, List<string> words)
+        {
+            if (node.Hijos.Count == 0 && node.FinDePalabra)
+            {
+                words.Add(prefijo);
+                return;
+            }
+
+            else if (node.Hijos.Count != 0 && node.FinDePalabra)
+            {
+                words.Add(prefijo);
+                foreach (var child in node.Hijos)
+                {
+                    GetWords(child, prefijo + child.Valor, words);
+                }
+                return;
+            }
+            else if (node.Hijos.Count != 0 && node.FinDePalabra)
+            {
+                words.Add(prefijo);
+            }
+            else
+            {
+                foreach (var child in node.Hijos)
+                {
+                    GetWords(child, prefijo + child.Valor, words);
+                }
+            }
+        }
+
+        public bool Contiene(string palabra)
+        {
+            if (Contains(Raiz, 0, palabra)) return true;
+            return false;
+        }
+
+        bool Contains(NodoTrie node, int index, string palabra)
+        {
+            if (index == palabra.Length )
+            {
+                if (node.FinDePalabra) return true;
+                return false;
+            }   
+            var match = node.Hijos.Where(x => x.Valor == palabra[index]).FirstOrDefault();
+            if (match is null) return false;
+            //else if (match.FinDePalabra) return true;
+            return Contains(match, index + 1, palabra);
+        }
+        public void Vaciar()
+        {
+            Raiz.Hijos.Clear();
+            CantidadDePalabras = 0;
+        }
+        public int CantidadDePalabras{ get; set; }
+        
+        
         public NodoTrie this[char valor]
         {
             get
             {
                 var match = Raiz.Hijos.Where(x => x.Valor == valor).FirstOrDefault();
-                return match!;
+                return match;
             }
         }
-
-        public Trie() =>(Raiz,CantidadDePalabras) = (new NodoTrie('\0'),0);
-        public void AgregarPalabra(string palabra) =>    Insert(palabra,Raiz,0);
-        public void Insert(string word,NodoTrie nodo,int index)
-        {
-            if(index == word.Length)
-            {
-                nodo.FinDePalabra = true;
-                CantidadDePalabras ++;
-                return;
-            }
-            var match = nodo.Hijos.Where(x=> x.Valor == word[index]).FirstOrDefault();
-            if(match is null)
-            {
-                var child = new NodoTrie(word[index]);
-                nodo.Hijos.Add(child);
-                Console.WriteLine($"Added node: {child.Valor}");
-                Insert(word,child,index +1);
-            }
-            else Insert(word,match,index+1);
-        }
-
-        public string MayorPrefijoComun()
-        {
-            string longest = "";
-            string prefix = "";
-            var collection = PalabrasConPrefijo("");
-            if(collection.Count() != 0)
-            {
-                var first = collection.First();
-                for(int i = 0; i <  first.Length ; i++)
-                {
-                    if(HasPrefix(first[i],i,collection)) longest += first[i];
-                    else
-                    {
-                        Console.WriteLine($"LCP: {longest}");
-                        return longest;
-                    }
-                }
-            }
-            Console.WriteLine($"LCP: {longest}");
-            return longest;
-        }
-
-        bool HasPrefix(char letter, int index, IEnumerable<string> collection)
-        {
-            foreach(var word in collection)
-            {
-                if(index >= word.Length) return false;
-                if(word[index] != letter) return false;
-            }
-            return true;
-        }
-
-        public IEnumerable<string> PalabrasConPrefijo(string prefijo)
-        {
-            List<string> words = new();
-            WordsWithPrefix(Raiz,0,prefijo,words);
-            return words;
-        }
-        void WordsWithPrefix(NodoTrie actual, int index, string prefix, List<string> words)
-        {
-            if (index == prefix.Length)
-            {
-                GetWords(actual, prefix, words);
-            }
-            else
-            {
-                var match = actual.Hijos.Where(x => x.Valor == prefix[index]).FirstOrDefault();
-                if (match is null) return;
-                else
-                {
-                    WordsWithPrefix(match, index + 1, prefix, words);
-                }
-            }
-        }
-
-        void GetWords(NodoTrie actual, string word, List<string> words)
-        {
-            if (actual.Hijos.Count == 0 && actual.FinDePalabra)
-            {
-                words.Add(word);
-                System.Console.WriteLine($"Added leaf {word}");
-                return;
-            }
-
-            else if (actual.FinDePalabra && actual.Hijos.Count != 0)
-            {
-                words.Add(word);
-                System.Console.WriteLine($"Added word {word}");
-
-                foreach (var child in actual.Hijos)
-                {
-                    GetWords(child, word + child.Valor, words);
-                }
-
-                return;
-            }
-
-            else
-            {
-                foreach (var child in actual.Hijos)
-                {
-                    GetWords(child, word + child.Valor, words);
-                }
-            }
-        }
-
-        public bool Contiene(string palabra) => Contains(Raiz, 0, palabra);
-
-        public bool Contains(NodoTrie actual, int index, string word)
-        {
-            var match = actual.Hijos.Where(x => x.Valor == word[index]).FirstOrDefault();
-            if (match is null) return false;
-            else if (match.FinDePalabra) return true;
-            else
-                return Contains(match, index + 1, word);
-        }
-
-        public void Vaciar()=>    Raiz.Hijos.Clear();
-
-        public int CantidadDePalabras { get; private set; }
     }   
 }

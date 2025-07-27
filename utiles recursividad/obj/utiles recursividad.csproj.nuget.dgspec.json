@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Trie\\Trie.csproj": {}
+    "C:\\Telegram\\RepExams\\Exams-and-Exercises\\utiles recursividad\\utiles recursividad.csproj": {}
   },
   "projects": {
-    "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Trie\\Trie.csproj": {
+    "C:\\Telegram\\RepExams\\Exams-and-Exercises\\utiles recursividad\\utiles recursividad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Trie\\Trie.csproj",
-        "projectName": "Trie",
-        "projectPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Trie\\Trie.csproj",
+        "projectUniqueName": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\utiles recursividad\\utiles recursividad.csproj",
+        "projectName": "utiles recursividad",
+        "projectPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\utiles recursividad\\utiles recursividad.csproj",
         "packagesPath": "C:\\Users\\j7064\\.nuget\\packages\\",
-        "outputPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Trie\\obj\\",
+        "outputPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\utiles recursividad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

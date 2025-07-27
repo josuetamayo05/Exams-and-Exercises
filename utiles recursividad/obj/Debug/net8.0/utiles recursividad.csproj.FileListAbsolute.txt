@@ -1,0 +1,15 @@
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\bin\Debug\net8.0\utiles recursividad.exe
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\bin\Debug\net8.0\utiles recursividad.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\bin\Debug\net8.0\utiles recursividad.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\bin\Debug\net8.0\utiles recursividad.dll
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\bin\Debug\net8.0\utiles recursividad.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.dll
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\refint\utiles recursividad.dll
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\utiles recursividad.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\utiles recursividad\obj\Debug\net8.0\ref\utiles recursividad.dll

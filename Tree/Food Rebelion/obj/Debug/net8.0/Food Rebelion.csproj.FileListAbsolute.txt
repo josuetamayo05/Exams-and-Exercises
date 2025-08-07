@@ -1,0 +1,29 @@
+D:\programacion\pruebas de arboles hechas\Food Rebelion\bin\Debug\net8.0\Food Rebelion.exe
+D:\programacion\pruebas de arboles hechas\Food Rebelion\bin\Debug\net8.0\Food Rebelion.deps.json
+D:\programacion\pruebas de arboles hechas\Food Rebelion\bin\Debug\net8.0\Food Rebelion.runtimeconfig.json
+D:\programacion\pruebas de arboles hechas\Food Rebelion\bin\Debug\net8.0\Food Rebelion.dll
+D:\programacion\pruebas de arboles hechas\Food Rebelion\bin\Debug\net8.0\Food Rebelion.pdb
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.AssemblyInfoInputs.cache
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.AssemblyInfo.cs
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.dll
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\refint\Food Rebelion.dll
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.pdb
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\Food Rebelion.genruntimeconfig.cache
+D:\programacion\pruebas de arboles hechas\Food Rebelion\obj\Debug\net8.0\ref\Food Rebelion.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\bin\Debug\net8.0\Food Rebelion.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\bin\Debug\net8.0\Food Rebelion.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\bin\Debug\net8.0\Food Rebelion.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\bin\Debug\net8.0\Food Rebelion.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\bin\Debug\net8.0\Food Rebelion.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\refint\Food Rebelion.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\Food Rebelion.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Food Rebelion\obj\Debug\net8.0\ref\Food Rebelion.dll

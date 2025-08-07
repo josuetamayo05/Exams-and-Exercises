@@ -1,0 +1,15 @@
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\bin\Debug\net9.0\SistemArchivos.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\bin\Debug\net9.0\SistemArchivos.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\bin\Debug\net9.0\SistemArchivos.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\bin\Debug\net9.0\SistemArchivos.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\bin\Debug\net9.0\SistemArchivos.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\refint\SistemArchivos.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\SistemArchivos.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\SistemArchivos\SistemArchivos\obj\Debug\net9.0\ref\SistemArchivos.dll

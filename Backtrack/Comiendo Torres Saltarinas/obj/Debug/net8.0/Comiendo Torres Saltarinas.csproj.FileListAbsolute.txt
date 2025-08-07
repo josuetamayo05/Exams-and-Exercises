@@ -1,0 +1,29 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\refint\Comiendo Torres Saltarinas.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Comiendo Torres Saltarinas\obj\Debug\net8.0\ref\Comiendo Torres Saltarinas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\bin\Debug\net8.0\Comiendo Torres Saltarinas.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\refint\Comiendo Torres Saltarinas.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\Comiendo Torres Saltarinas.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Comiendo Torres Saltarinas\obj\Debug\net8.0\ref\Comiendo Torres Saltarinas.dll

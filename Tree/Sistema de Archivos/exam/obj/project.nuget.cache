@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiUQlr4CWJ0=",
+  "success": true,
+  "projectFilePath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Sistema de Archivos\\exam\\exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j7064\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\j7064\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\j7064\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\j7064\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

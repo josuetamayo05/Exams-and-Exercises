@@ -1,0 +1,15 @@
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\bin\Debug\net6.0\exam.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\bin\Debug\net6.0\exam.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\bin\Debug\net6.0\exam.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\bin\Debug\net6.0\exam.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\bin\Debug\net6.0\exam.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\refint\exam.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\exam.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Sistema de Archivos\exam\obj\Debug\net6.0\ref\exam.dll

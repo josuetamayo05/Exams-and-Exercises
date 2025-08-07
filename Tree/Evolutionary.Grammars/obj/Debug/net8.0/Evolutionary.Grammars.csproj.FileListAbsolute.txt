@@ -1,0 +1,29 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\refint\Evolutionary.Grammars.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de arboles hechas\Evolutionary.Grammars\obj\Debug\net8.0\ref\Evolutionary.Grammars.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\bin\Debug\net8.0\Evolutionary.Grammars.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\refint\Evolutionary.Grammars.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\Evolutionary.Grammars.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Evolutionary.Grammars\obj\Debug\net8.0\ref\Evolutionary.Grammars.dll

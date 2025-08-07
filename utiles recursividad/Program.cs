@@ -128,6 +128,45 @@ class VariacionesConRepeticion // cogerse a el mismo es una opcion
     }
 }
 
+class Permutaciones // n maneras de repartirse items.Length items
+{
+    private static List<List<List<int>>> Partitioner(int[] items, int n)
+    {
+        List<List<List<int>>> permutaciones = new List<List<List<int>>>();
+        List<List<int>> current = new List<List<int>>();
+        for (int i = 0; i < n; i++) // Permutaciones para n barcos
+        {
+            current.Add(new List<int>());
+        }
+        PartitionerCombinations(permutaciones, current, items, 0);
+        return permutaciones;
+    }
+    private static void PartitionerCombinations(List<List<List<int>>> permutaciones, List<List<int>> current, int[] items, int index)
+    {
+        if (index == items.Length)
+        {
+            List<List<int>> copy = new List<List<int>>();
+            for (int i = 0; i < current.Count; i++)
+            {
+                List<int> barcoListas = new List<int>();
+                for (int j = 0; j < current[i].Count; j++)
+                {
+                    barcoListas.Add(current[i][j]);
+                }
+                copy.Add(barcoListas);
+            }
+            permutaciones.Add(copy);
+            return;
+        }
+        for (int i = 0; i < current.Count; i++)
+        {
+            current[i].Add(items[index]);
+            PartitionerCombinations(permutaciones, current, items, index + 1);
+            current[i].RemoveAt(current[i].Count - 1);
+        }
+    }
+}
+
 
 class VariacionesSinRepeticion // escoge los casos aunque sea el mismo al reves 
 {

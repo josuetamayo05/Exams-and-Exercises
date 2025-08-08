@@ -1,0 +1,44 @@
+D:\programacion\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.exe
+D:\programacion\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.deps.json
+D:\programacion\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.runtimeconfig.json
+D:\programacion\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.dll
+D:\programacion\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.pdb
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.AssemblyInfoInputs.cache
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.AssemblyInfo.cs
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.dll
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\refint\Arbol Suma.dll
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.pdb
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.genruntimeconfig.cache
+D:\programacion\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\ref\Arbol Suma.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.exe
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.deps.json
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.runtimeconfig.json
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\bin\Debug\net8.0\Arbol Suma.pdb
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.AssemblyInfoInputs.cache
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.AssemblyInfo.cs
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.csproj.CoreCompileInputs.cache
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.sourcelink.json
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\refint\Arbol Suma.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.pdb
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\Arbol Suma.genruntimeconfig.cache
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Arbol Suma\obj\Debug\net8.0\ref\Arbol Suma.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\bin\Debug\net8.0\Arbol Suma.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\bin\Debug\net8.0\Arbol Suma.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\bin\Debug\net8.0\Arbol Suma.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\bin\Debug\net8.0\Arbol Suma.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\bin\Debug\net8.0\Arbol Suma.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\refint\Arbol Suma.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\Arbol Suma.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Arbol Suma\obj\Debug\net8.0\ref\Arbol Suma.dll

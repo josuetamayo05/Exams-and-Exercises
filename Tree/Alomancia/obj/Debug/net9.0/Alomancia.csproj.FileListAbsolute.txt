@@ -1,0 +1,4 @@
+C:\Telegram\Programación\Alomancia\Alomancia\obj\Debug\net9.0\Alomancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\Programación\Alomancia\Alomancia\obj\Debug\net9.0\Alomancia.AssemblyInfoInputs.cache
+C:\Telegram\Programación\Alomancia\Alomancia\obj\Debug\net9.0\Alomancia.AssemblyInfo.cs
+C:\Telegram\Programación\Alomancia\Alomancia\obj\Debug\net9.0\Alomancia.csproj.CoreCompileInputs.cache

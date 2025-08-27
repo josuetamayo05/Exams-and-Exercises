@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evolutionary.Grammars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef60180854aa33eef4253560cac737c21f58c0ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+555732d486e751aa0ea442c53516b181f4e5ae75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evolutionary.Grammars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evolutionary.Grammars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

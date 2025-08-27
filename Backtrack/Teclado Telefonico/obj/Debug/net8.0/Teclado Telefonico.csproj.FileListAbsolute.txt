@@ -1,0 +1,30 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\refint\Teclado Telefonico.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Teclado Telefonico\obj\Debug\net8.0\ref\Teclado Telefonico.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\bin\Debug\net8.0\Teclado Telefonico.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\refint\Teclado Telefonico.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\Teclado Telefonico.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Teclado Telefonico\obj\Debug\net8.0\ref\Teclado Telefonico.dll

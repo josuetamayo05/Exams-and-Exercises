@@ -1,0 +1,15 @@
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\bin\Debug\net9.0\Solution2.exe
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\bin\Debug\net9.0\Solution2.deps.json
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\bin\Debug\net9.0\Solution2.runtimeconfig.json
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\bin\Debug\net9.0\Solution2.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\bin\Debug\net9.0\Solution2.pdb
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.AssemblyInfoInputs.cache
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.AssemblyInfo.cs
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.csproj.CoreCompileInputs.cache
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.sourcelink.json
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\refint\Solution2.dll
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.pdb
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\Solution2.genruntimeconfig.cache
+C:\Telegram\Programación\rep Frank\pruebas-resueltas\pruebas de arboles hechas\Dibujando rectangulos\Solution2\obj\Debug\net9.0\ref\Solution2.dll

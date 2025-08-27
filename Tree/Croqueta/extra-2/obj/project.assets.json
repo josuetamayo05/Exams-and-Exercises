@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Telegram\\Programación\\extra-2[1]\\extra-2\\extra-2.csproj",
+      "projectUniqueName": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Croqueta\\extra-2\\extra-2.csproj",
       "projectName": "extra-2",
-      "projectPath": "C:\\Telegram\\Programación\\extra-2[1]\\extra-2\\extra-2.csproj",
+      "projectPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Croqueta\\extra-2\\extra-2.csproj",
       "packagesPath": "C:\\Users\\j7064\\.nuget\\packages\\",
-      "outputPath": "C:\\Telegram\\Programación\\extra-2[1]\\extra-2\\obj\\",
+      "outputPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Croqueta\\extra-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

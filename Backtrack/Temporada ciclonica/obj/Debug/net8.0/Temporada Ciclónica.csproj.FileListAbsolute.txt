@@ -1,0 +1,58 @@
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.exe
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.deps.json
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.runtimeconfig.json
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.dll
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.pdb
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfoInputs.cache
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfo.cs
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.csproj.CoreCompileInputs.cache
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.dll
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\refint\Temporada Ciclónica.dll
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.pdb
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.genruntimeconfig.cache
+C:\Users\maval\Desktop\Propuestas de examenes Programacion\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\ref\Temporada Ciclónica.dll
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.exe
+C:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.deps.json
+C:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.runtimeconfig.json
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.dll
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\bin\Debug\net8.0\Temporada Ciclónica.pdb
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfoInputs.cache
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfo.cs
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.csproj.CoreCompileInputs.cache
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.dll
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\refint\Temporada Ciclónica.dll
+c:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.pdb
+C:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\Temporada Ciclónica.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\cps recursividad\ASsa\Temporada Ciclónica\Temporada Ciclónica\obj\Debug\net8.0\ref\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\refint\Temporada Ciclónica.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Temporada ciclonica\obj\Debug\net8.0\ref\Temporada Ciclónica.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\bin\Debug\net8.0\Temporada Ciclónica.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\refint\Temporada Ciclónica.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\Temporada Ciclónica.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Temporada ciclonica\obj\Debug\net8.0\ref\Temporada Ciclónica.dll

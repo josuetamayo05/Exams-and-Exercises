@@ -60,7 +60,7 @@ class Program {
         // Example 1
         sampler = FixedSampler();
         start = new Tree("S");
-        final = Solution.DeriveFromGrammar(start, 1, productions, sampler);
+        final = Solution2.DeriveFromGrammar(start, 1, productions, sampler);
         expected = "TREE\n|__ SS\n    |__ A\n    |__ S";
         Console.WriteLine($"""
             ============================================
@@ -78,7 +78,7 @@ class Program {
         // Example 2
         sampler = FixedSampler();
         start = new Tree("S");
-        final = Solution.DeriveFromGrammar(start, 2, productions, sampler);
+        final = Solution2.DeriveFromGrammar(start, 2, productions, sampler);
         expected = "TREE\n|__ SSSS\n    |__ AA\n        |__ a\n        |__ A\n    |__ SS\n        |__ B\n        |__ S\n    |__ c";
         Console.WriteLine($"""
             ============================================
@@ -97,7 +97,7 @@ class Program {
         // Example 3
         sampler = FixedSampler();
         start = new Tree("S");
-        final = Solution.DeriveFromGrammar(start, 3, productions, sampler);
+        final = Solution2.DeriveFromGrammar(start, 3, productions, sampler);
         expected = "TREE\n|__ SSSSSSSS\n    |__ AAAA\n        |__ aa\n        |__ AA\n            |__ a\n        |__ e\n    |__ SSSS\n        |__ BB\n            |__ b\n        |__ SS\n            |__ B\n            |__ S\n        |__ c\n    |__ cc\n    |__ d";
         Console.WriteLine($"""
             ============================================

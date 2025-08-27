@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Telegram\\Programación\\Alomancia\\Alomancia\\Alomancia.csproj",
+      "projectUniqueName": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Alomancia\\Alomancia.csproj",
       "projectName": "Alomancia",
-      "projectPath": "C:\\Telegram\\Programación\\Alomancia\\Alomancia\\Alomancia.csproj",
+      "projectPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Alomancia\\Alomancia.csproj",
       "packagesPath": "C:\\Users\\j7064\\.nuget\\packages\\",
-      "outputPath": "C:\\Telegram\\Programación\\Alomancia\\Alomancia\\obj\\",
+      "outputPath": "C:\\Telegram\\RepExams\\Exams-and-Exercises\\Tree\\Alomancia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

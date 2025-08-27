@@ -1,0 +1,29 @@
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\bin\Debug\net8.0\Webosoft.exe
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\bin\Debug\net8.0\Webosoft.deps.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\bin\Debug\net8.0\Webosoft.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\bin\Debug\net8.0\Webosoft.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\bin\Debug\net8.0\Webosoft.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\refint\Webosoft.dll
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.pdb
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\Webosoft.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pruebas-resueltas-main\pruebas de recursividad hechas\Webosoft\obj\Debug\net8.0\ref\Webosoft.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\bin\Debug\net8.0\Webosoft.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\bin\Debug\net8.0\Webosoft.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\bin\Debug\net8.0\Webosoft.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\bin\Debug\net8.0\Webosoft.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\bin\Debug\net8.0\Webosoft.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\refint\Webosoft.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\Webosoft.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Webosoft\obj\Debug\net8.0\ref\Webosoft.dll

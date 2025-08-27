@@ -1,0 +1,30 @@
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\bin\Debug\net8.0\Juan Salado.exe
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\bin\Debug\net8.0\Juan Salado.deps.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\bin\Debug\net8.0\Juan Salado.runtimeconfig.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\bin\Debug\net8.0\Juan Salado.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\bin\Debug\net8.0\Juan Salado.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.AssemblyInfoInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.AssemblyInfo.cs
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.csproj.CoreCompileInputs.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.sourcelink.json
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\refint\Juan Salado.dll
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.pdb
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\Juan Salado.genruntimeconfig.cache
+D:\programacion\pruebas resueltas\pruebas de recursividad hechas\Juan Salado\obj\Debug\net8.0\ref\Juan Salado.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\bin\Debug\net8.0\Juan Salado.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\bin\Debug\net8.0\Juan Salado.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\bin\Debug\net8.0\Juan Salado.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\bin\Debug\net8.0\Juan Salado.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\bin\Debug\net8.0\Juan Salado.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\refint\Juan Salado.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\Juan Salado.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Backtrack\Juan Salado\obj\Debug\net8.0\ref\Juan Salado.dll

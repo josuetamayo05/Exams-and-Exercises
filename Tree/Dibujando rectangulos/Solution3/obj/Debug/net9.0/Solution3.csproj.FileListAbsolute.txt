@@ -1,0 +1,15 @@
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\bin\Debug\net9.0\Solution3.exe
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\bin\Debug\net9.0\Solution3.deps.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\bin\Debug\net9.0\Solution3.runtimeconfig.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\bin\Debug\net9.0\Solution3.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\bin\Debug\net9.0\Solution3.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.AssemblyInfoInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.AssemblyInfo.cs
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.csproj.CoreCompileInputs.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.sourcelink.json
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\refint\Solution3.dll
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.pdb
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\Solution3.genruntimeconfig.cache
+C:\Telegram\RepExams\Exams-and-Exercises\Tree\Dibujando rectangulos\Solution3\obj\Debug\net9.0\ref\Solution3.dll
